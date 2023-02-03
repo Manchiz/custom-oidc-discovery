@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5fc310f-c100-4391-89cc-af64bb0ed665" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/wso2/custom/oidc/discovery/DiscoveryDataHolder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/wso2/custom/oidc/discovery/CustomDiscovery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/wso2/custom/oidc/discovery/CustomDiscovery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/wso2/custom/oidc/discovery/CustomDiscoveryConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/wso2/custom/oidc/discovery/CustomDiscoveryConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/wso2/custom/oidc/discovery/internal/ServiceComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/wso2/custom/oidc/discovery/internal/ServiceComponent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
