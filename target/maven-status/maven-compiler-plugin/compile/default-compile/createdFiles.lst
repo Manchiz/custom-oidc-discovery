@@ -1,3 +1,4 @@
-org/wso2/custom/scope/validator/CustomScopeValidator.class
-org/wso2/custom/scope/validator/internal/ServiceComponentHolder.class
-org/wso2/custom/scope/validator/internal/ServiceComponent.class
+org/wso2/custom/oidc/discovery/internal/ServiceComponentHolder.class
+org/wso2/custom/oidc/discovery/internal/ServiceComponent.class
+org/wso2/custom/oidc/discovery/CustomDiscovery.class
+org/wso2/custom/oidc/discovery/CustomDiscoveryConstants.class
