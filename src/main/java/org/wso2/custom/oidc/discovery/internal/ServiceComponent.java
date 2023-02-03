@@ -17,14 +17,7 @@ import javax.servlet.ServletException;
 import java.util.Hashtable;
 
 
-//@Component(
-//        name = "org.wso2.custom.scope.validator",
-//        immediate = true
-//)
-
 public class ServiceComponent {
-
-
 
     private static final Log log = LogFactory.getLog(ServiceComponent.class);
 
@@ -43,9 +36,9 @@ public class ServiceComponent {
         try {
             ServiceComponentHolder.getInstance().getHttpService()
                     .registerServlet(CustomDiscoveryConstants.SERVLET_URL, servlet, null, null);
-            log.info("X509 Certificate Servlet activated successfully..");
+            log.info("Custom OIDC Discovery Servlet activated successfully..");
         } catch (NamespaceException | ServletException e) {
-            throw new RuntimeException("Error when registering X509 Certificate Servlet via the HttpService.", e);
+            throw new RuntimeException("Error when Custom OIDC Discovery Servlet via the HttpService.", e);
         }
     }
 
