@@ -1,3 +1,17 @@
 
 src/.DS_Store
 .DS_Store
+target/classes/.DS_Store
+*.MF
+*.class
+*.class
+*.class
+/target/
+target/classes/org/wso2/custom/scope/validator/internal/ServiceComponent.class
+target/classes/org/wso2/custom/scope/validator/internal/ServiceComponent.class
+target/classes/org/wso2/custom/scope/validator/internal/ServiceComponent.class
+target/classes/.DS_Store
+.idea/workspace.xml
+target/classes/.DS_Store
+target/classes/.DS_Store
+target/classes/.DS_Store
