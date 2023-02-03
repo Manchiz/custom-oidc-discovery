@@ -176,11 +176,11 @@
                         <Bundle-SymbolicName>${project.artifactId}</Bundle-SymbolicName>
                         <Bundle-Name>${project.artifactId}</Bundle-Name>
                         <Private-Package>
-                            org.wso2.custom.scope.validator.internal
+                            org.wso2.custom.oidc.discovery.internal
                         </Private-Package>
                         <Export-Package>
-                            !org.wso2.custom.scope.validator.internal,
-                            org.wso2.custom.scope.validator.*; version="${project.version}",
+                            !org.wso2.custom.oidc.discovery.internal,
+                            org.wso2.custom.oidc.discovery.*; version="${project.version}",
                         </Export-Package>
                         <Import-Package>
                             org.osgi.framework; version="${import.osgi.framework.version.range}",
