@@ -13,5 +13,5 @@ public class CustomDiscoveryConstants {
     private CustomDiscoveryConstants() {
     }
 
-    public static final String SERVLET_URL = "/x509-certificate-servlet";
+    public static final String SERVLET_URL = "/oauth2/oidcdiscovery/.well-known/openid-configuration-test";
 }

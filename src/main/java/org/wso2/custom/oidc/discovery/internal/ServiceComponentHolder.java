@@ -1,8 +1,6 @@
 package org.wso2.custom.oidc.discovery.internal;
 
 import org.osgi.service.http.HttpService;
-import org.wso2.carbon.identity.oauth.OAuthAdminServiceImpl;
-import org.wso2.carbon.user.core.service.RealmService;
 
 
 public class ServiceComponentHolder {
